@@ -8,3 +8,6 @@ OBJECTIVE: Find the frequent itemsets in a data set. Specifically uses adult.csv
 FILES: Apriori.py; adult.csv
 
 RUNTIME INSTRUCTIONS: Load adult.csv into same directory as Apriori.py. Run Apriori.py and relevant results will be printed(runtime and frequent itemsets).
+
+### apriori_algo.ipynb
+Python3 version of apriori algorithm, revised based on solution provided by Vitkin
